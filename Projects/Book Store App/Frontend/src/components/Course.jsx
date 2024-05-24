@@ -3,6 +3,7 @@ import list from "../../public/list.json";
 import Cards from "../../src/components/Cards";
 import { Link } from "react-router-dom";
 
+
 function Course() {
   return (
     <>

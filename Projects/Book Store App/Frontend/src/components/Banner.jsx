@@ -4,7 +4,7 @@ import banner from "../../public/Book.png";
 export const Banner = () => {
   return (
     <>
-      <div className="max-w-screen-2x1 cintainer mx-auto md:px-20 px-4 flex md:flex-row my-20 dark:bg-white">
+      <div className="max-w-screen-2x1 cintainer mx-auto md:px-20 px-4 flex md:flex-row my-20 d]">
         <div className="order-2 w-full md:w-1/2 mt-12 md:mt-32">
           <div className="space-y-12">
             <h1 className="text-4xl font-bold">
@@ -18,7 +18,7 @@ export const Banner = () => {
               pariatur corporis at veniam est voluptas animi!
             </p>
 
-            <label className="input input-bordered flex items-center gap-2 dark:bg-white">
+            <label className="input input-bordered flex items-center gap-2 ">
               Email
               <input
                 type="text"
