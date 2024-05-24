@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import Login from "./Login";
+import SignUp from "./SignUp";
 
 function Navbar() {
   const [theam, setTheme] = useState(
@@ -52,7 +54,7 @@ function Navbar() {
   return (
     <>
       <div
-        className={`max-w-screen-2xl container mx-auto md:px-20 px-4  fixed top-0 left-0 right-0 z-50 ${
+        className={`max-w-screen-2xl container mx-auto md:px-10 px-4  fixed top-0 left-0 right-0 z-50 ${
           sticky
             ? "sticky-navbar shadow-md bg-base-300 duration-300 transition-all ease-in-out"
             : ""
@@ -144,9 +146,26 @@ function Navbar() {
               </svg>
             </label>
             <div className="">
-              <a className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer">
+              <a
+                className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer"
+                onClick={() =>
+                  document.getElementById("my_modal_1").showModal()
+                }
+              >
                 Login
               </a>
+              <Login />
+            </div>
+            <div className="">
+              <a
+                className="bg-black text-white px-2 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer"
+                onClick={() =>
+                  document.getElementById("my_modal_2").showModal()
+                }
+              >
+                SignUp
+              </a>
+              <SignUp/>
             </div>
           </div>
         </div>
