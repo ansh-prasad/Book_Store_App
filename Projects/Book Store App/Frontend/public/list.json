@@ -5,7 +5,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
 
@@ -15,7 +15,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Entainment",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
     {
@@ -24,7 +24,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
     {
@@ -33,7 +33,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Sports",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
     {
@@ -42,7 +42,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":100,
         "category":"Song",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
     {
@@ -51,7 +51,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Food",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
     {
@@ -60,7 +60,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
     {
@@ -69,7 +69,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
     {
@@ -78,7 +78,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
     {
@@ -87,8 +87,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
-
+        "image":"public/Book.png"
     },
     {
         "id":11,
@@ -96,7 +95,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     },
      {
@@ -105,7 +104,7 @@
         "tital":"Lorem, iqsum dolor site amet consectetur adipisicing elit, ",
         "price":0,
         "category":"Free",
-        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1716362024~exp=1716365624~hmac=9d0899711ab5148070f3e097f5579ded9eea6d4822463f39023ca1e0c494157a&w=996"
+        "image":"public/Book.png"
 
     }
 ]
