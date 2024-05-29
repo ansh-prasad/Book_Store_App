@@ -1,0 +1,25 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "mern project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansh-prasad/MERN-Stack.git"
+  },
+  "author": "Ansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansh-prasad/MERN-Stack/issues"
+  },
+  "homepage": "https://github.com/ansh-prasad/MERN-Stack#readme",
+  "dependencies": {
+    "dotnet": "^1.1.4",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
+  }
+}
